@@ -1,15 +1,13 @@
-
-
 [![DigiConn Unite Banner](https://ik.imagekit.io/digisence/dcu%20(1).png)](https://digiconnunite.com)
 
 [![Website Badge](https://img.shields.io/badge/Website-Visit-informational?style=flat&logo=google-chrome&logoColor=white&color=3b82f6)](https://digiconnunite.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/company/digiconnunite)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-informational?style=flat&logo=x&logoColor=white&color=000000)](https://twitter.com/digiconnunite)
+[![X Badge](https://img.shields.io/badge/X-Follow-informational?style=flat&logo=x&logoColor=white&color=000000)](https://twitter.com/digiconnunite)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://instagram.com/digiconnunite)
 
 # 👋 Welcome to DigiConn Unite
 
-We are **DigiConn Unite**, a results-driven digital marketing agency that bridges the gap between **creative storytelling** and **technical precision**. We specialize in scaling brands through data-driven SEO, high-conversion web development, and engaging social media strategies.
+We are **DigiConn Unite**, a results-driven digital marketing agency that bridges the gap between **creative storytelling** and **technical precision**. We specialize in scaling brands through data-driven marketing, beautiful product design, and reliable engineering.
 
 Our mission is to unite businesses with their audiences in the digital landscape. We don't just build websites; we build digital experiences that convert visitors into loyal customers.
 
@@ -18,8 +16,6 @@ Our mission is to unite businesses with their audiences in the digital landscape
 ---
 
 ## 💡 What We Do
-
-<br>
 
 **🎨 Brand Strategy & Identity**
 Defining your voice and visual presence in a crowded market.
@@ -33,59 +29,49 @@ Pixel-perfect, responsive websites built with modern frameworks.
 **📱 Social Media Management**
 Community growth and engagement across all major platforms.
 
-<br>
+---
 
 ## 📝 Latest Insights & Articles
-
-<br>
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+> Note: To populate this section automatically, add a GitHub Action that replaces the block above with your latest blog posts or CMS RSS feed. See the "Automation" section below.
 
-## 📌 Pinned Projects
+---
 
-<br>
+## 📌 Pinned Projects (auto-updated)
 
-<a href="https://github.com/digiconn-unite/seo-dashboard-v2">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=digiconn-unite&repo=seo-dashboard-v2&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
+This section is intended to be updated automatically from your latest or featured repositories. I've added marker comments so a GitHub Action can update the list dynamically.
+
+<!-- PROJECTS:START -->
+
+- _No projects found yet — add a GitHub Action to populate this block automatically._
+
+<!-- PROJECTS:END -->
+
+You can use the example workflow in the Automation section to populate this block with your latest projects.
+
+---
+
+## 📈 GitHub & Repo Stats
+
+To make stats more reliable and prevent missing images, these images use the official GitHub-readme-stats endpoints with the repository owner set to `DigiconnUnite`.
+
+<a href="https://github.com/DigiconnUnite">
+  <img align="center" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigiconnUnite&layout=compact&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6" />
 </a>
 
-<br>
-
-<a href="https://github.com/digiconn-unite/marketing-portfolio-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=digiconn-unite&repo=marketing-portfolio-template&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
+<a href="https://github.com/DigiconnUnite">
+  <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DigiconnUnite&show_icons=true&count_private=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6" />
 </a>
 
-<br>
+Notes:
+- If an image appears broken, check that the GitHub username in the URL matches your account/org (case-insensitive) and that the readme-stats service is reachable.
+- You can host images yourself (e.g., in the repository) to avoid third-party downtime.
 
-<a href="https://github.com/digiconn-unite/social-scheduler-cli">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=digiconn-unite&repo=social-scheduler-cli&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/digiconn-unite/agency-landing-page">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=digiconn-unite&repo=agency-landing-page&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/digiconn-unite">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiconn-unite&layout=compact&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/digiconn-unite">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=digiconn-unite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" alt="DigiConn Unite GitHub Stats" />
-</a>
-
-<br>
-<br>
+---
 
 ## 🛠️ Tech & Marketing Stack
 
@@ -126,17 +112,56 @@ Community growth and engagement across all major platforms.
 
 </details>
 
-<br>
+---
 
 ## 📣 Daily Marketing Insight
 
 > "The best marketing doesn't feel like marketing."
 >
-> <p>— Tom Fishburne</p>
+> — Tom Fishburne
 
-*Inspired by industry leaders.*
+---
 
-<br>
+## Automation (optional)
+
+Below is an example GitHub Action you can add as `.github/workflows/update-readme.yml` to populate the Projects section automatically from your latest repositories. The workflow below is a minimal example that uses a small node script to fetch repositories and replace the block between <!-- PROJECTS:START --> and <!-- PROJECTS:END --> in this README.
+
+Save this workflow and add a companion script in `.github/scripts/update-readme.js` (example provided in this repo's PR or in this README) to perform the content replacement.
+
+```yaml
+name: Update README Projects
+on:
+  schedule:
+    - cron: '0 4 * * *' # daily at 04:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: |
+          npm ci || true
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node .github/scripts/update-readme.js
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update README projects" || echo "No changes"
+          git push
+```
+
+You can find many community workflows that already implement this (search for "update README with latest repos" on GitHub). If you want, I can add a complete script and the workflow in this repo for you.
 
 ---
 
@@ -144,4 +169,4 @@ Community growth and engagement across all major platforms.
 
 We are always looking to collaborate with innovative brands and talented developers.
 
-[![Website](https://img.shields.io/badge/Get_In_Touch-3b82f6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik00IDRoMTZjMS4xIDAgMiAuOSAyIDJ2MTJjMCAxLjEtLjkgMi0yIDJINHYtMTZ6Ii8+PHBvbHlnb24gcG9pbnRzPSIyMiw2IDEyLDEzIDIsNiIvPjwvc3ZnPg==)](https://digiconnunite.com/contact)
+[![Website](https://img.shields.io/badge/Get_In_Touch-3b82f6?style=for-the-badge)](https://digiconnunite.com/contact)
