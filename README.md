@@ -35,58 +35,6 @@ Community growth and engagement across all major platforms.
 
 <br>
 
-## 📝 Latest Insights & Articles
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-## 📌 Pinned Projects
-
-<br>
-
-<a href="https://github.com/digiconn-unite/seo-dashboard-v2">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=digiconn-unite&repo=seo-dashboard-v2&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
-</a>
-
-<br>
-
-<a href="https://github.com/digiconn-unite/marketing-portfolio-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=digiconn-unite&repo=marketing-portfolio-template&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
-</a>
-
-<br>
-
-<a href="https://github.com/digiconn-unite/social-scheduler-cli">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=digiconn-unite&repo=social-scheduler-cli&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/digiconn-unite/agency-landing-page">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=digiconn-unite&repo=agency-landing-page&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/digiconn-unite">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiconn-unite&layout=compact&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/digiconn-unite">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=digiconn-unite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3b82f6&bg_color=0d1117" alt="DigiConn Unite GitHub Stats" />
-</a>
-
-<br>
-<br>
-
 ## 🛠️ Tech & Marketing Stack
 
 ### Development
